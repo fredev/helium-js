@@ -1,7 +1,7 @@
 # `@helium/http`
 ![npm](https://img.shields.io/npm/v/@helium/http)
 
-An HTTP client for interfacing with the Helium blockchain. For more documentation on the underlying REST API, see the section on the [Helium Developer Site](https://developer.helium.com/blockchain/api).
+An HTTP client for interfacing with the Helium blockchain. For more documentation on the underlying REST API, see the section on the [Helium Developer Site](https://docs.helium.com/api/blockchain/introduction).
 
 ## Installation
 
